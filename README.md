@@ -5,4 +5,5 @@ Znajomośc HTML podstawowa. Ciągle sie uczę.
 
 -----------------------------------------
 My first project in HTML
-Basic understanding of HTML. Im  still learning. 
+Basic understanding of HTML. 
+Im  still learning. 

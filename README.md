@@ -8,6 +8,8 @@ INSTRUKCJA:
 2. odpakowujemy np. programem Winrar
 3. uruchamiamy plik *.html (w przeglądarce)
 
+
+<BR /> <BR />
 -----------------------------------------
 My first project in HTML
 <br />

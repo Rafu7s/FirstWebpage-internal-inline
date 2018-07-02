@@ -2,7 +2,7 @@
 
 <br />  
 
-![teeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeest](https://i.ytimg.com/vi/-dJolYw8tnk/hqdefault.jpg)
+![alt text](https://i.ytimg.com/vi/-dJolYw8tnk/hqdefault.jpg "Git Gud")
 
 <br />
 

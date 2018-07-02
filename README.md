@@ -1,5 +1,4 @@
-# My first project in HTML
-# Basic understanding of HTML. Im  still learning. 
+# My first project in HTML <br /> Basic understanding of HTML. Im  still learning. 
   
 <br />    <br />
   

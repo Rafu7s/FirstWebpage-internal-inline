@@ -18,4 +18,4 @@ See [On GitHub Pages](https://rafusix.github.io/First-project/)
 
 
 <br> <br> <br> <br> <br> 
-key phrases: HTML, CSS, JQuery, Sketch, Node.js, Angular.js, WebGL, D3, PHP
+key: HTML, CSS, JQuery, Sketch, Node.js, Angular.js, WebGL, D3, PHP

@@ -15,3 +15,7 @@ See [On GitHub Pages](https://rafusix.github.io/First-project/)
 <br> 
 
 > more CSS + JS coming soon...
+
+
+<br> <br> <br> <br> <br> 
+key phrases: HTML, CSS, JQuery, Sketch, Node.js, Angular.js, WebGL, D3, PHP

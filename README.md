@@ -26,8 +26,13 @@ Project is: in development
 >more CSS + JS coming soon...
 
 ### Inspiration
-Project inspired by "Pasja informatyki HTML course" movie <br>
-and w3schools.com (especially CSS)
+Project inspired by:
+<br>
+"Pasja informatyki HTML course" movie (HTML)
+<br>
+w3schools.com (HTML&CSS)
+<br>
+flynerdpl (Template for a README)
 
 ### Contact
 Created by [@Rafus](mailto:rafusv2@gmail.com) - feel free to contact me!

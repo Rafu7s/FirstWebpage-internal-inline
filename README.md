@@ -21,7 +21,7 @@ My first project in HTML <br /> Basic understanding of HTML. Im  still learning.
 See on [GitHub Pages](https://rafusix.github.io/First-project/)
  
 ### Status
-Project is: in development
+Project is: in development (low priority)
 >more CSS + JS coming soon...
 
 ### Inspiration

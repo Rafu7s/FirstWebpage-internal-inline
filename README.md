@@ -24,7 +24,7 @@ key: HTML, CSS, JQuery, Sketch, Node.js, Angular.js, WebGL, D3, PHP
 
 #### Status
 Project is: in developing 
->more CSS + JS coming soon.
+>more CSS + JS coming soon...
 
 #### Inspiration
 Project inspired by "Pasja informatyki HTML course" movie 

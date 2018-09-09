@@ -19,7 +19,7 @@ My first project in HTML <br /> Basic understanding of HTML. Im  still learning.
 ![Example meta5](./img/Meta5.png)
 
 ### Setup
-See On [GitHub Pages](https://rafusix.github.io/First-project/)
+See on [GitHub Pages](https://rafusix.github.io/First-project/)
  
 ### Status
 Project is: in development

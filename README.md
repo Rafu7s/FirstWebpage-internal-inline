@@ -22,13 +22,13 @@ key: HTML, CSS, JQuery, Sketch, Node.js, Angular.js, WebGL, D3, PHP
 
 
 
-## Status
+#### Status
 Project is: in developing 
 >more CSS + JS coming soon.
 
-## Inspiration
+#### Inspiration
 Project inspired by "Pasja informatyki HTML course" movie 
 and w3schools.com (especially for the CSS)
 
-## Contact
+#### Contact
 Created by [@Rafus](rafusv2@gmail.com) - feel free to contact me!

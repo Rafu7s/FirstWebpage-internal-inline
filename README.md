@@ -19,7 +19,7 @@ key: HTML, CSS, JQuery, Sketch, Node.js, Angular.js, WebGL, D3, PHP
 <br> <br> 
 
 #### Status
-Project is: in developing 
+Project is: in development
 >more CSS + JS coming soon...
 
 #### Inspiration

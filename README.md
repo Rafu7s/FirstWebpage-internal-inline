@@ -28,7 +28,7 @@ Project is: in development
 ### Inspiration
 Project inspired by:
 <br>
-"Pasja informatyki HTML course" movie (HTML)
+Pasja informatyki "HTML course" video (HTML)
 <br>
 w3schools.com (HTML&CSS)
 <br>

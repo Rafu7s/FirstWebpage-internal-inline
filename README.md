@@ -16,7 +16,7 @@ My first project in HTML <br /> Basic understanding of HTML. Im  still learning.
 ### Screenshots
 ![alt text](https://i.ytimg.com/vi/-dJolYw8tnk/hqdefault.jpg "Git Gud")
 <br>
-![Example meta5](./img/meta5.png)
+![Example meta5](./img/Meta5.png)
 
 ### Setup
 See [On GitHub Pages](https://rafusix.github.io/First-project/)

@@ -7,6 +7,7 @@ My first project in HTML <br /> Basic understanding of HTML. Im  still learning.
 
 ### Screenshots
 ![alt text](https://i.ytimg.com/vi/-dJolYw8tnk/hqdefault.jpg "Git Gud")
+![Example screenshot](./img/hqdefault.jpg)
 
 <br />
 

@@ -13,11 +13,7 @@ My first project in HTML <br /> Basic understanding of HTML. Im  still learning.
 ### Setup
 See [On GitHub Pages](https://rafusix.github.io/First-project/)
  
-
 <br> 
-key: HTML, CSS, JQuery, Sketch, Node.js, Angular.js, WebGL, D3, PHP
-
-<br> <br> 
 
 ### Status
 Project is: in development
@@ -29,3 +25,5 @@ and w3schools.com (especially CSS)
 
 ### Contact
 Created by [@Rafus](mailto:rafusv2@gmail.com) - feel free to contact me!
+<br>
+key: HTML, CSS, JQuery, Sketch, Node.js, Angular.js, WebGL, D3, PHP

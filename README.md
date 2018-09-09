@@ -31,4 +31,4 @@ Project inspired by "Pasja informatyki HTML course" movie
 and w3schools.com (especially for the CSS)
 
 #### Contact
-Created by [@Rafus](rafusv2@gmail.com) - feel free to contact me!
+Created by [@Rafus](mailto:rafusv2@gmail.com) - feel free to contact me!

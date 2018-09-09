@@ -10,10 +10,7 @@ My first project in HTML <br /> Basic understanding of HTML. Im  still learning.
 <br>
 ![Example screenshot](./img/meta5.png)
 
-<br />
-
-<br />
-
+### Setup
 See [On GitHub Pages](https://rafusix.github.io/First-project/)
  
 

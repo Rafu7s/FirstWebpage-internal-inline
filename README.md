@@ -11,14 +11,10 @@
 <br />
 
 See [On GitHub Pages](https://rafusix.github.io/First-project/)
-
-<br> 
-
  
 
-<br> <br> <br> <br>
+<br> 
 key: HTML, CSS, JQuery, Sketch, Node.js, Angular.js, WebGL, D3, PHP
-
 
 
 
@@ -28,7 +24,7 @@ Project is: in developing
 
 #### Inspiration
 Project inspired by "Pasja informatyki HTML course" movie <br>
-and w3schools.com (especially for the CSS)
+and w3schools.com (especially CSS)
 
 #### Contact
 Created by [@Rafus](mailto:rafusv2@gmail.com) - feel free to contact me!

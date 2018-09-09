@@ -1,3 +1,4 @@
+![alt text](https://i.ytimg.com/vi/-dJolYw8tnk/hqdefault.jpg "Git Gud")
 ## Project Name
 >My first webpage <BR>
  
@@ -14,8 +15,6 @@ My first project in HTML <br /> Basic understanding of HTML. Im  still learning.
 - for testing purposes
 
 ### Screenshots
-![alt text](https://i.ytimg.com/vi/-dJolYw8tnk/hqdefault.jpg "Git Gud")
-<br>
 ![Example meta5](./img/Meta5.png)
 
 ### Setup

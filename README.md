@@ -1,5 +1,13 @@
-### Project Name
+## Project Name
 >My first webpage <BR>
+ 
+### Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
 
 ### General info
 My first project in HTML <br /> Basic understanding of HTML. Im  still learning. 
@@ -8,13 +16,11 @@ My first project in HTML <br /> Basic understanding of HTML. Im  still learning.
 ### Screenshots
 ![alt text](https://i.ytimg.com/vi/-dJolYw8tnk/hqdefault.jpg "Git Gud")
 <br>
-![Example screenshot](./img/meta5.png)
+![Example meta5](./img/meta5.png)
 
 ### Setup
 See [On GitHub Pages](https://rafusix.github.io/First-project/)
  
-<br> 
-
 ### Status
 Project is: in development
 >more CSS + JS coming soon...

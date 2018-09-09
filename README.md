@@ -27,7 +27,7 @@ Project is: in developing
 >more CSS + JS coming soon...
 
 #### Inspiration
-Project inspired by "Pasja informatyki HTML course" movie 
+Project inspired by "Pasja informatyki HTML course" movie <br>
 and w3schools.com (especially for the CSS)
 
 #### Contact

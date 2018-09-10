@@ -11,8 +11,8 @@
 * [Contact](#contact)
 
 ### General info
-My first project in HTML <br /> Basic understanding of HTML. Im  still learning. 
-- for testing purposes
+My first project in HTML #PL <br /> Basic understanding of HTML. Im  still learning. 
+- for testing purposes 
 
 ### Screenshots
 ![Example meta5](./img/Meta5.png)

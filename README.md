@@ -12,7 +12,7 @@
 
 ### General info
 My first project in HTML #PL <br /> Basic understanding of HTML. Im  still learning. 
-- for testing purposes 
+>for testing purposes 
 
 ### Screenshots
 ![Example meta5](./img/Meta5.png)
@@ -26,12 +26,9 @@ Project is: in development (low priority)
 
 ### Inspiration
 Project inspired by:
-<br>
-Pasja informatyki "HTML course" video (HTML)
-<br>
-w3schools.com (HTML&CSS)
-<br>
-flynerdpl (Template for a README)
+- Pasja informatyki "HTML course" video (HTML)
+- w3schools.com (HTML&CSS)
+- flynerdpl (Template for a README)
 
 ### Contact
 Created by [@Rafus](mailto:rafusv2@gmail.com) - feel free to contact me!

@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ### General info
-My first HTML&CSS project  #PL <br /> Basic understanding of HTML. Im  still learning. 
+My first HTML&CSS project  #PL <br /> Basic understanding of HTML. I'm  still learning. 
 
 ### Screenshots
 ![Example meta5](./img/Meta5.png)
@@ -34,4 +34,4 @@ Project inspired by:
 ### Contact
 Created by [@Rafus](mailto:rafusv2@gmail.com) - feel free to contact me!
 <br><br><br><br><br>
-keywords: HTML, CSS, JQuery, Sketch, Node.js, Angular.js, WebGL, D3, PHP
+keywords: HTML, CSS, JS, PHP, JQuery, Sketch, Node.js, Angular.js, WebGL, D3

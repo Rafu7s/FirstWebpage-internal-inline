@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ### General info
-My first project in HTML #PL <br /> Basic understanding of HTML. Im  still learning. 
+My first HTML&CSS project  #PL <br /> Basic understanding of HTML. Im  still learning. 
 
 ### Screenshots
 ![Example meta5](./img/Meta5.png)
@@ -22,8 +22,8 @@ See on [GitHub Pages](https://rafusix.github.io/First-project/)
 ### Status
 Project is:
 >for testing purposes 
-/*in development (low priority)
->more CSS + JS coming soon...*/
+<!-- in development (low priority)
+>more CSS + JS coming soon....-->
 
 ### Inspiration
 Project inspired by:

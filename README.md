@@ -17,7 +17,7 @@ My first HTML&CSS project  #PL <br /> Basic understanding of HTML. I'm  still le
 ![Example meta5](./img/Meta5.png)
 
 ### Setup
-See on [GitHub Pages](https://rafusix.github.io/First-project/)
+See on [GitHub Pages](https://rafu7s.github.io/First-project/)
  
 ### Status
 Project is:

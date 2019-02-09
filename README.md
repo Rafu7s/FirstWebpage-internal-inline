@@ -21,7 +21,7 @@ See on [GitHub Pages](https://rafu7s.github.io/First-project/)
  
 ### Status
 Project is:
->for testing purposes /inline style/
+>for testing purposes /inline/internal style/
 <!-- in development (low priority)
 >more CSS + JS coming soon....-->
 

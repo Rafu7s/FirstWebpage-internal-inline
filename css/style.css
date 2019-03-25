@@ -15,4 +15,27 @@
    top: 2200px;
    left: 100px;
 }
+.container {
+   width: 100px;
+   height: 100px;
+   position: absolute;
+}
+.ind_1 {
+   background: #dddddd;
+   top: 10px;
+   left: 10px;
+   z-index: 1;
+}
+.ind_2 {
+   background: #bbbbbb;
+   top: 60px;
+   left: 80px;
+   z-index: 3;
+}
+.ind_3 {
+   background: #999999;
+   top: 10px;
+   left: 140px;
+   z-index: 2;
+}
 /*brudnopis*/

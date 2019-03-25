@@ -22,7 +22,7 @@ See on [GitHub Page](https://rafu7s.github.io/First-project-internal-inline/)
 ### Status
 Project is:
 >for testing purposes /inline-internal style/ <br>
-I used 1920x1200 to project
+I used 1920x1200 monitor for project
 <!-- in development (low priority)
 >more CSS + JS coming soon....-->
 

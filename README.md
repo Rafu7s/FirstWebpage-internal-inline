@@ -35,6 +35,7 @@ Project inspired by:
 ### Contact
 Created by [@Rafu7s](mailto:rafusv2@gmail.com) - feel free to contact me!
 <br><br><br><br><br>
+![alt text](/img/No_template.png "pic1")
 keywords: HTML, CSS, JS, PHP, JQuery, Sketch, Node.js, Angular.js, WebGL, D3
 
-![alt text](/img/No_template.png "pic1")
+

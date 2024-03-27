@@ -39,4 +39,34 @@ Created by [@Rafu7s](mailto:rafusv2@gmail.com) - feel free to contact me!
 <br><br>
 keywords: HTML, CSS, JS, PHP, JQuery, Sketch, Node.js, Angular.js, WebGL, D3
 
-
+<br><br><br>
+---------------------
+### Notes
+- CSS
+```
+# - id
+. - class
+```
+- Internal
+```
+<style>...</style> (w head)
+```
+- Head
+```
+<link rel="stylesheet" href="*.css">
+<script src="*.js" type="..."></script>
+<meta charset/name(decription/keywords)>
+<title>
+```
+- Body
+```
+element blokowy:<div>
+akapit:<p>
+punktowe<ul>/numerowane<ol>
+nagłówki:<h1,h2>
+tabela:<table>
+<form>:<input><button><textarea><select>
+znacznik:<a(hiperlacze:href)>
+<script>, <img>, <hr>, <br>
+komentarz: <!--...-->
+```

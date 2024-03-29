@@ -46,6 +46,8 @@ keywords: HTML, CSS, JS, PHP, JQuery, Sketch, Node.js, Angular.js, WebGL, D3
 ```
 # - id
 . - class
+text-align,font-size,color,background,font-weight/style/decoration,margin/padding,width/height,display,float,clear
+#top>#logo>#menu-top->#main>#left,#body>h1,#content->#footer
 ```
 - Internal
 ```
@@ -62,11 +64,11 @@ keywords: HTML, CSS, JS, PHP, JQuery, Sketch, Node.js, Angular.js, WebGL, D3
 ```
 element blokowy:<div>
 akapit:<p>
-punktowe<ul>/numerowane<ol>
+listy:punktowe<ul>/numerowane<ol>:<li>
 nagłówki:<h1,h2>
-tabela:<table>
-<form>:<input><button><textarea><select>
+tabela:<table>(<tr><td/th>colspan/rowspan,border)
+formularze:<form>method,action|pole tekstowe<input>:type(text,<label>radio,checkbox>checked,submit/button),name,value,placeholder<textarea>:cols,rows<button><select>
 znacznik:<a(hiperlacze:href)>
-<script>, <img>, <hr>, <br>
+<img>, <hr>, <br>, <video>, <audio>, <script>
 komentarz: <!--...-->
 ```

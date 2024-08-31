@@ -17,7 +17,7 @@ My first HTML&CSS project  #PL <br /> Basic understanding of HTML. I'm  still le
 ![Example meta5](./img/Meta5.png)
 
 ### Setup
-See on [GitHub Page](https://rafu7s.github.io/First-project-internal-inline/)
+See on [GitHub Page](https://rafu7s.github.io/FirstWebpage-internal-inline/)
  
 ### Status
 Project is:
